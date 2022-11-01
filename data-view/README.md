@@ -1,4 +1,3 @@
-# E-commerce-data-visualization
 ## 电商平台实时监控系统
 
 ## 预览地址: [点击预览](https://www.bookbook.cc/vue2/data-view)
@@ -90,4 +89,3 @@ npm run serve
 | QQ                  | WeChat              |
 | ------------------- | ------------------- |
 | ![QQ](./images/qq.jpg) | ![wx](./images/wx.jpg) |
-
