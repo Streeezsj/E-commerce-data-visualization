@@ -1,22 +1,25 @@
-# E-commerce-data-visualization
-## 电商平台实时监控系统
+### 电商平台数据可视化实时监控系统
 
-## 预览地址: [点击预览](https://www.bookbook.cc/vue2/data-view)
 
-## 项目前端地址(当前)：[点击前往](https://gitee.com/penggang-home/data-view)
+### 介绍
+该项目为电商平台数据可视化实时监控系统，可以保证实时获取数据进行分析，支持大屏展示，自适应分辨率。
 
-## 后端地址：[点击前往](https://gitee.com/penggang-home/koa_server)
 
-## 说明
+### 项目前端地址(当前)：[点击前往](https://github.com/Streeezsj/E-commerce-data-visualization)
 
-如果你觉得本项目对你有帮助的话，请点个 Star 支持一下 🐷(一个赞都没有，太可怜了)
+### 后端地址：[点击前往](https://gitee.com/penggang-home/koa_server)
 
-在学习该项目的过程中,如果你遇到任何问题都可以联系我,文末有联系方法。
+### 安装运行
+* #### 第一步
+    * 克隆项目到本地`git clone https://github.com/Streeezsj/E-commerce-data-visualization.git
+* #### 第二步
+    * `cd data-view`进入该项目 
+* #### 第三步
+    * `cnpm install`安装依赖
+* #### 第四步
+    * 访问后台系统 `npm run serve`
 
-[www.bookbook.cc](https://www.bookbook.cc/) 这是我的个人主页,你也可以在上面找到我的联系方式
-
-## 一、技术栈
-
+### 技术栈
 该项目主要使用 `Vue`搭配`Echarts`采用组件化的方式开发完成,此外项目中陆续使用有
 
 - VueRouter
@@ -27,23 +30,7 @@
 - ES6+
 - less
 
-## 二、如何运行该项目？
-
-```js
-// 首先你应当克隆该项目
-git clone https://gitee.com/penggang-home/data-view.git
-
-// 进入该项目
-cd data-view
-
-// 安装对应依赖
-cnpm install
-
-// 访问线上后台系统
-npm run serve
-```
-
-## 三、运行效果截图
+### 运行效果截图
 
 #### 2.1 黑色主题
 
@@ -77,17 +64,15 @@ npm run serve
 
 ![dark](./images/trend.png)
 
-## 四、 联系我
+### 留言
 
-最后，如果你有什么奇怪的想法或者疑惑你都可以联系我，希望我能帮助到你。
+**可以的话可以在此留下阁下宝贵的建议**
 
-- WX：P200048
+-------------------------------------
 
-- QQ：2845486124
+### 作者信息
 
-- E-Mail：2845486124@qq.com
+####  **[github](https://github.com/Streeezsj)**
 
-| QQ                  | WeChat              |
-| ------------------- | ------------------- |
-| ![QQ](./images/qq.jpg) | ![wx](./images/wx.jpg) |
+联系邮箱: 506106022@qq.com
 
