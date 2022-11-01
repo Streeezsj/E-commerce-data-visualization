@@ -7,7 +7,7 @@
 
 ### 项目前端地址(当前)：[点击前往](https://github.com/Streeezsj/E-commerce-data-visualization)
 
-### 后端地址：[点击前往](https://gitee.com/penggang-home/koa_server)
+### 后端地址：[点击前往](https://github.com/Streeezsj/koa_server)
 
 ### 安装运行
 * #### 第一步
